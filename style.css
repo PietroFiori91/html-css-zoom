@@ -47,6 +47,7 @@ header div span {
   font-size: 0.9rem;
   font-weight: 600;
   display: flex;
+  margin-right: 2rem;
 }
 
 header div button {
@@ -63,7 +64,7 @@ header div button {
 
 .fa-solid,
 .fa-maximize {
-  display: inline-block;
+  /* display: inline-block; */
 }
 
 /* MAIN */
