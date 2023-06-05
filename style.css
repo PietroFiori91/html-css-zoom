@@ -136,6 +136,9 @@ footer {
   font-size: 1.2rem;
   color: red;
   background-color: grey;
+  height: 100px;
+  line-height: 100px;
+  padding: 0rem 1rem;
 }
 
 footer div i:nth-child(4) {
